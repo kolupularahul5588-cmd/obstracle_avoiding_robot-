@@ -119,14 +119,5 @@ Through this project, one can learn:
 **Kolupula Rahul**
 ECE Student | Embedded Systems & Robotics Enthusiast
 
----
-
-If you want, I can also:
-✅ Create a **short GitHub description (2–3 lines)**
-✅ Write a **professional README with badges**
-✅ Generate **project tags and keywords**
-✅ Help you write a **LinkedIn project post**
-
-Tell me 👍
 
 
